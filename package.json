@@ -1,0 +1,25 @@
+{
+  "name": "bolt-hackathon-badge",
+  "version": "1.0.0",
+  "description": "Bolt.new badge and logo assets for the World's Largest Hackathon. Includes PNG, SVG, and WEBP formats for easy inclusion in your project.",
+  "author": "@kickiniteasy <https://x.com/kickiniteasy>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kickiniteasy/bolt-hackathon-badge.git"
+  },
+  "keywords": [
+    "bolt",
+    "hackathon",
+    "badge",
+    "logo",
+    "assets",
+    "svg",
+    "png",
+    "webp"
+  ],
+  "files": [
+    "src/public/bolt-badge/"
+  ],
+  "homepage": "https://github.com/kickiniteasy/bolt-hackathon-badge#readme"
+} 
