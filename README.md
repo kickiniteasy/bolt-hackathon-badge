@@ -90,63 +90,120 @@ Below are previews of the available SVG logo and wordmark assets for each sponso
 
 ### Algorand
 **Logos:**
-<img src="src/public/algorand/logo-color.svg" height="40"> <img src="src/public/algorand/logo-black.svg" height="40"> <img src="src/public/algorand/logo-white.svg" height="40">
+
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/algorand/logo-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/algorand/logo-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/algorand/logo-white.svg" height="40"></td>
+</tr></table>
 
 **Wordmarks:**
-<img src="src/public/algorand/wordmark-color.svg" height="40"> <img src="src/public/algorand/wordmark-black.svg" height="40"> <img src="src/public/algorand/wordmark-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/algorand/wordmark-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/algorand/wordmark-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/algorand/wordmark-white.svg" height="40"></td>
+</tr></table>
 
 ---
 
 ### ElevenLabs
 **Logos:**
-<img src="src/public/elevenlabs/logo-color.svg" height="40"> <img src="src/public/elevenlabs/logo-black.svg" height="40"> <img src="src/public/elevenlabs/logo-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/elevenlabs/logo-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/elevenlabs/logo-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/elevenlabs/logo-white.svg" height="40"></td>
+</tr></table>
 
 **Wordmarks:**
-<img src="src/public/elevenlabs/wordmark-color.svg" height="40"> <img src="src/public/elevenlabs/wordmark-black.svg" height="40"> <img src="src/public/elevenlabs/wordmark-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/elevenlabs/wordmark-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/elevenlabs/wordmark-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/elevenlabs/wordmark-white.svg" height="40"></td>
+</tr></table>
 
 ---
 
 ### Entri
 **Logos:**
-<img src="src/public/entri/logo-color.svg" height="40"> <img src="src/public/entri/logo-black.svg" height="40"> <img src="src/public/entri/logo-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/entri/logo-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/entri/logo-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/entri/logo-white.svg" height="40"></td>
+</tr></table>
 
 **Wordmarks:**
-<img src="src/public/entri/wordmark-color.svg" height="40"> <img src="src/public/entri/wordmark-black.svg" height="40"> <img src="src/public/entri/wordmark-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/entri/wordmark-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/entri/wordmark-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/entri/wordmark-white.svg" height="40"></td>
+</tr></table>
 
 ---
 
 ### Netlify
 **Logos:**
-<img src="src/public/netlify/logo-color.svg" height="40"> <img src="src/public/netlify/logo-black.svg" height="40"> <img src="src/public/netlify/logo-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/netlify/logo-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/netlify/logo-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/netlify/logo-white.svg" height="40"></td>
+</tr></table>
 
 **Wordmarks:**
-<img src="src/public/netlify/wordmark-color.svg" height="40"> <img src="src/public/netlify/wordmark-black.svg" height="40"> <img src="src/public/netlify/wordmark-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/netlify/wordmark-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/netlify/wordmark-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/netlify/wordmark-white.svg" height="40"></td>
+</tr></table>
 
 ---
 
 ### Reddit
 **Logos:**
-<img src="src/public/reddit/logo-color.svg" height="40"> <img src="src/public/reddit/logo-black.svg" height="40"> <img src="src/public/reddit/logo-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/reddit/logo-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/reddit/logo-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/reddit/logo-white.svg" height="40"></td>
+</tr></table>
 
 **Wordmarks:**
-<img src="src/public/reddit/wordmark-color.svg" height="40"> <img src="src/public/reddit/wordmark-black.svg" height="40"> <img src="src/public/reddit/wordmark-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/reddit/wordmark-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/reddit/wordmark-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/reddit/wordmark-white.svg" height="40"></td>
+</tr></table>
 
 ---
 
 ### Revenuecat
 **Logos:**
-<img src="src/public/revenuecat/logo-color.svg" height="40"> <img src="src/public/revenuecat/logo-black.svg" height="40"> <img src="src/public/revenuecat/logo-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/revenuecat/logo-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/revenuecat/logo-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/revenuecat/logo-white.svg" height="40"></td>
+</tr></table>
 
 **Wordmarks:**
-<img src="src/public/revenuecat/wordmark-color.svg" height="40"> <img src="src/public/revenuecat/wordmark-black.svg" height="40"> <img src="src/public/revenuecat/wordmark-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/revenuecat/wordmark-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/revenuecat/wordmark-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/revenuecat/wordmark-white.svg" height="40"></td>
+</tr></table>
 
 ---
 
 ### Supabase
 **Logos:**
-<img src="src/public/supabase/logo-color.svg" height="40"> <img src="src/public/supabase/logo-black.svg" height="40"> <img src="src/public/supabase/logo-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/supabase/logo-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/supabase/logo-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/supabase/logo-white.svg" height="40"></td>
+</tr></table>
 
 **Wordmarks:**
-<img src="src/public/supabase/wordmark-color.svg" height="40"> <img src="src/public/supabase/wordmark-black.svg" height="40"> <img src="src/public/supabase/wordmark-white.svg" height="40">
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/supabase/wordmark-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/supabase/wordmark-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/supabase/wordmark-white.svg" height="40"></td>
+</tr></table>
 
 ---
