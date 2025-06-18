@@ -41,3 +41,112 @@ This repo contains PNG, WEBP, & SVG versions of the badge image.
 The PNG images are taken directly from the [official Google Drive link](https://drive.google.com/drive/folders/1iNALInxyPJl7IHP5iywUKqsdumCrWIA0) shared by the hackathon.
 
 The SVG & WEBP images were created by [@kickiniteasy](https://x.com/kickiniteasy)
+
+## Sponsor Logos
+
+Logos for the sponsors listed below are included in this repository for convenience and reference. Where available, the official brand guide or asset link is provided.
+
+Logos were sourced from official brand resources or public brand guides, and are intended for use in accordance with each sponsor's branding guidelines. If a sponsor did not provide a brand guide, only the name is listed.
+
+- [Algorand](https://algorandtechnologies.com/about/media-kit/)
+- [ElevenLabs](https://elevenlabs.io/brand)
+- Entri
+- Netlify
+- [Reddit](https://redditinc.com/brand)
+- Revenuecat
+- [Supabase](https://supabase.com/brand-assets)
+
+## Sponsor Asset Inventory
+
+Below are two tables showing which logo and wordmark files exist for each sponsor. ✅ = present, ❌ = missing.
+
+### Logo Files
+| Sponsor     | logo-color.png | logo-color.svg | logo-black.png | logo-black.svg | logo-white.png | logo-white.svg |
+|-------------|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| Algorand    | ✅             | ✅             | ✅             | ✅             | ✅             | ✅             |
+| ElevenLabs  | ✅             | ✅             | ✅             | ✅             | ✅             | ✅             |
+| Entri       | ❌             | ✅             | ❌             | ✅             | ❌             | ✅             |
+| Netlify     | ❌             | ✅             | ❌             | ✅             | ❌             | ✅             |
+| Reddit      | ✅             | ✅             | ❌             | ✅             | ✅             | ✅             |
+| Revenuecat  | ❌             | ✅             | ❌             | ✅             | ❌             | ✅             |
+| Supabase    | ✅             | ✅             | ❌             | ✅             | ❌             | ✅             |
+
+### Wordmark Files
+| Sponsor     | wordmark-color.png | wordmark-color.svg | wordmark-black.png | wordmark-black.svg | wordmark-white.png | wordmark-white.svg |
+|-------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
+| Algorand    | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 |
+| ElevenLabs  | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 |
+| Entri       | ❌                 | ✅                 | ❌                 | ✅                 | ❌                 | ✅                 |
+| Netlify     | ❌                 | ✅                 | ❌                 | ✅                 | ❌                 | ✅                 |
+| Reddit      | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 |
+| Revenuecat  | ❌                 | ✅                 | ❌                 | ✅                 | ❌                 | ✅                 |
+| Supabase    | ✅                 | ✅                 | ❌                 | ✅                 | ❌                 | ✅                 |
+
+---
+
+## Sponsor Asset Gallery
+
+Below are previews of the available SVG logo and wordmark assets for each sponsor. (If an image does not appear, the file is missing.)
+
+### Algorand
+**Logos:**
+<img src="src/public/algorand/logo-color.svg" height="40"> <img src="src/public/algorand/logo-black.svg" height="40"> <img src="src/public/algorand/logo-white.svg" height="40">
+
+**Wordmarks:**
+<img src="src/public/algorand/wordmark-color.svg" height="40"> <img src="src/public/algorand/wordmark-black.svg" height="40"> <img src="src/public/algorand/wordmark-white.svg" height="40">
+
+---
+
+### ElevenLabs
+**Logos:**
+<img src="src/public/elevenlabs/logo-color.svg" height="40"> <img src="src/public/elevenlabs/logo-black.svg" height="40"> <img src="src/public/elevenlabs/logo-white.svg" height="40">
+
+**Wordmarks:**
+<img src="src/public/elevenlabs/wordmark-color.svg" height="40"> <img src="src/public/elevenlabs/wordmark-black.svg" height="40"> <img src="src/public/elevenlabs/wordmark-white.svg" height="40">
+
+---
+
+### Entri
+**Logos:**
+<img src="src/public/entri/logo-color.svg" height="40"> <img src="src/public/entri/logo-black.svg" height="40"> <img src="src/public/entri/logo-white.svg" height="40">
+
+**Wordmarks:**
+<img src="src/public/entri/wordmark-color.svg" height="40"> <img src="src/public/entri/wordmark-black.svg" height="40"> <img src="src/public/entri/wordmark-white.svg" height="40">
+
+---
+
+### Netlify
+**Logos:**
+<img src="src/public/netlify/logo-color.svg" height="40"> <img src="src/public/netlify/logo-black.svg" height="40"> <img src="src/public/netlify/logo-white.svg" height="40">
+
+**Wordmarks:**
+<img src="src/public/netlify/wordmark-color.svg" height="40"> <img src="src/public/netlify/wordmark-black.svg" height="40"> <img src="src/public/netlify/wordmark-white.svg" height="40">
+
+---
+
+### Reddit
+**Logos:**
+<img src="src/public/reddit/logo-color.svg" height="40"> <img src="src/public/reddit/logo-black.svg" height="40"> <img src="src/public/reddit/logo-white.svg" height="40">
+
+**Wordmarks:**
+<img src="src/public/reddit/wordmark-color.svg" height="40"> <img src="src/public/reddit/wordmark-black.svg" height="40"> <img src="src/public/reddit/wordmark-white.svg" height="40">
+
+---
+
+### Revenuecat
+**Logos:**
+<img src="src/public/revenuecat/logo-color.svg" height="40"> <img src="src/public/revenuecat/logo-black.svg" height="40"> <img src="src/public/revenuecat/logo-white.svg" height="40">
+
+**Wordmarks:**
+<img src="src/public/revenuecat/wordmark-color.svg" height="40"> <img src="src/public/revenuecat/wordmark-black.svg" height="40"> <img src="src/public/revenuecat/wordmark-white.svg" height="40">
+
+---
+
+### Supabase
+**Logos:**
+<img src="src/public/supabase/logo-color.svg" height="40"> <img src="src/public/supabase/logo-black.svg" height="40"> <img src="src/public/supabase/logo-white.svg" height="40">
+
+**Wordmarks:**
+<img src="src/public/supabase/wordmark-color.svg" height="40"> <img src="src/public/supabase/wordmark-black.svg" height="40"> <img src="src/public/supabase/wordmark-white.svg" height="40">
+
+---
