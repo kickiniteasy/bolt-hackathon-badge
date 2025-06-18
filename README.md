@@ -61,26 +61,26 @@ Logos were sourced from official brand resources or public brand guides, and are
 Below are two tables showing which logo and wordmark files exist for each sponsor. ✅ = present, ❌ = missing.
 
 ### Logo Files
-| Sponsor     | logo-color.png | logo-color.svg | logo-black.png | logo-black.svg | logo-white.png | logo-white.svg |
-|-------------|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| Algorand    | ✅             | ✅             | ✅             | ✅             | ✅             | ✅             |
-| ElevenLabs  | ✅             | ✅             | ✅             | ✅             | ✅             | ✅             |
-| Entri       | ❌             | ✅             | ❌             | ✅             | ❌             | ✅             |
-| Netlify     | ❌             | ✅             | ❌             | ✅             | ❌             | ✅             |
-| Reddit      | ✅             | ✅             | ❌             | ✅             | ✅             | ✅             |
-| Revenuecat  | ❌             | ✅             | ❌             | ✅             | ❌             | ✅             |
-| Supabase    | ✅             | ✅             | ❌             | ✅             | ❌             | ✅             |
+| Sponsor     | logo-color.svg | logo-black.svg | logo-white.svg |
+|-------------|:--------------:|:--------------:|:--------------:|
+| Algorand    | ✅             | ✅             | ✅             |
+| ElevenLabs  | ✅             | ✅             | ✅             |
+| Entri       | ✅             | ✅             | ✅             |
+| Netlify     | ✅             | ✅             | ✅             |
+| Reddit      | ✅             | ✅             | ✅             |
+| Revenuecat  | ✅             | ✅             | ✅             |
+| Supabase    | ✅             | ✅             | ✅             |
 
 ### Wordmark Files
-| Sponsor     | wordmark-color.png | wordmark-color.svg | wordmark-black.png | wordmark-black.svg | wordmark-white.png | wordmark-white.svg |
-|-------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
-| Algorand    | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 |
-| ElevenLabs  | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 |
-| Entri       | ❌                 | ✅                 | ❌                 | ✅                 | ❌                 | ✅                 |
-| Netlify     | ❌                 | ✅                 | ❌                 | ✅                 | ❌                 | ✅                 |
-| Reddit      | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 | ✅                 |
-| Revenuecat  | ❌                 | ✅                 | ❌                 | ✅                 | ❌                 | ✅                 |
-| Supabase    | ✅                 | ✅                 | ❌                 | ✅                 | ❌                 | ✅                 |
+| Sponsor     | wordmark-color.svg | wordmark-black.svg | wordmark-white.svg |
+|-------------|:------------------:|:------------------:|:------------------:|
+| Algorand    | ✅                 | ✅                 | ✅                 |
+| ElevenLabs  | ✅                 | ✅                 | ✅                 |
+| Entri       | ✅                 | ✅                 | ✅                 |
+| Netlify     | ✅                 | ✅                 | ✅                 |
+| Reddit      | ✅                 | ✅                 | ✅                 |
+| Revenuecat  | ✅                 | ✅                 | ✅                 |
+| Supabase    | ✅                 | ✅                 | ✅                 |
 
 ---
 
