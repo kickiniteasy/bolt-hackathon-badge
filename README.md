@@ -55,6 +55,7 @@ Logos were sourced from official brand resources or public brand guides, and are
 - [Reddit](https://redditinc.com/brand)
 - Revenuecat
 - [Supabase](https://supabase.com/brand-assets)
+- Tavus
 
 ## Sponsor Asset Inventory
 
@@ -70,6 +71,7 @@ Below are two tables showing which logo and wordmark files exist for each sponso
 | Reddit      | ✅             | ✅             | ✅             |
 | Revenuecat  | ✅             | ✅             | ✅             |
 | Supabase    | ✅             | ✅             | ✅             |
+| Tavus       | ✅             | ✅             | ✅             |
 
 ### Wordmark Files
 | Sponsor     | wordmark-color.svg | wordmark-black.svg | wordmark-white.svg |
@@ -81,6 +83,7 @@ Below are two tables showing which logo and wordmark files exist for each sponso
 | Reddit      | ✅                 | ✅                 | ✅                 |
 | Revenuecat  | ✅                 | ✅                 | ✅                 |
 | Supabase    | ✅                 | ✅                 | ✅                 |
+| Tavus       | ✅                 | ✅                 | ✅                 |
 
 ---
 
@@ -204,6 +207,23 @@ Below are previews of the available SVG logo and wordmark assets for each sponso
 <td style="background:#f3f3f3;"><img src="src/public/supabase/wordmark-color.svg" height="40"></td>
 <td style="background:#f3f3f3;"><img src="src/public/supabase/wordmark-black.svg" height="40"></td>
 <td style="background:#f3f3f3;"><img src="src/public/supabase/wordmark-white.svg" height="40"></td>
+</tr></table>
+
+---
+
+### Tavus
+**Logos:**
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/tavus/logo-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/tavus/logo-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/tavus/logo-white.svg" height="40"></td>
+</tr></table>
+
+**Wordmarks:**
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/tavus/wordmark-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/tavus/wordmark-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/tavus/wordmark-white.svg" height="40"></td>
 </tr></table>
 
 ---
