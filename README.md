@@ -1,4 +1,4 @@
-# bolt-hackathon-logo
+# bolt-hackathon-badge
 
 Badges & logo for the World's Largest Hackathon sponsored by [Bolt.new](https://bolt.new/)
 
@@ -9,7 +9,7 @@ Badges & logo for the World's Largest Hackathon sponsored by [Bolt.new](https://
 - [Hackathon Badge Google Drive](https://drive.google.com/drive/folders/1iNALInxyPJl7IHP5iywUKqsdumCrWIA0)
 - [The Chainsmokers (Badge Example)](https://thechainsmokers.com/)
 
-## Why Logos?
+## Why Badge & Logos?
 
 Part of the requirement for the hackathon is the use of the Bolt.new badge:
 
@@ -32,15 +32,50 @@ As of June 12th, 2025 9:30AM Pacific:
 > - **Text Only:** Use on dark backgrounds if preferred over the circle for your project's branding.  
 > **Files:** Shared in [public Drive Folder here](https://drive.google.com/drive/folders/1iNALInxyPJl7IHP5iywUKqsdumCrWIA0)
 
-## What's in this repo?
+## What's In This Repo?
 
-This repo contains PNG, WEBP, & SVG versions of the badge image.
+This repo contains PNG, WEBP, & SVG versions of the badge image. It also contains SVG images of the Hackathon Sponsor logos.
+
+## How Do I Use This?
+
+Easy! You can download the images and simply add them in your project in Bolt.
+
+## Will This Use Tokens?
+
+No tokens! Download this repository and add the files you want manually to your project using the "Code" view. You can drag and drop files in and it does not cost any tokens.
+
+If you are not certain where to upload the files and want to ask the AI make sure you are in "Discussion" mode and AI will tell you what folder to put the badge & logos in.
 
 ## Are These Official Assets?
 
 The PNG images are taken directly from the [official Google Drive link](https://drive.google.com/drive/folders/1iNALInxyPJl7IHP5iywUKqsdumCrWIA0) shared by the hackathon.
 
 The SVG & WEBP images were created by [@kickiniteasy](https://x.com/kickiniteasy)
+
+## Badge Asset Gallery
+
+Below are previews of the available Bolt badge assets. (If an image does not appear, the file is missing.)
+
+### White Circle Badge
+<table><tr>
+<td style="background:#222;"><img src="src/public/bolt-badge/white_circle_360x360/white_circle_360x360.png" height="60"></td>
+<td style="background:#222;"><img src="src/public/bolt-badge/white_circle_360x360/white_circle_360x360.svg" height="60"></td>
+<td style="background:#222;"><img src="src/public/bolt-badge/white_circle_360x360/white_circle_360x360.webp" height="60"></td>
+</tr></table>
+
+### Black Circle Badge
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/bolt-badge/black_circle_360x360/black_circle_360x360.png" height="60"></td>
+<td style="background:#f3f3f3;"><img src="src/public/bolt-badge/black_circle_360x360/black_circle_360x360.svg" height="60"></td>
+<td style="background:#f3f3f3;"><img src="src/public/bolt-badge/black_circle_360x360/black_circle_360x360.webp" height="60"></td>
+</tr></table>
+
+### Logotext "Powered by Bolt.new"
+<table><tr>
+<td style="background:#222;"><img src="src/public/bolt-badge/logotext_poweredby_360w/logotext_poweredby_360w.png" height="60"></td>
+<td style="background:#222;"><img src="src/public/bolt-badge/logotext_poweredby_360w/logotext_poweredby_360w.svg" height="60"></td>
+<td style="background:#222;"><img src="src/public/bolt-badge/logotext_poweredby_360w/logotext_poweredby_360w.webp" height="60"></td>
+</tr></table>
 
 ## Sponsor Logos
 
