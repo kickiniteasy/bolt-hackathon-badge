@@ -44,7 +44,7 @@ Easy! You can download the images and simply add them in your project in Bolt.
 
 No tokens! Download this repository and add the files you want manually to your project using the "Code" view. You can drag and drop files in and it does not cost any tokens.
 
-If you are not certain where to upload the files and want to ask the AI make sure you are in "Discussion" mode and AI will tell you what folder to put the badge & logos in.
+If you are not certain where to upload the files and want to ask the AI make sure you are in "Discussion" mode and AI will tell you what folder to put the badge & logos in and it will use less tokens for the answer.
 
 ## Are These Official Assets?
 
