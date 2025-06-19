@@ -58,23 +58,23 @@ Below are previews of the available Bolt badge assets. (If an image does not app
 
 ### White Circle Badge
 <table><tr>
-<td style="background:#222;"><img src="src/public/bolt-badge/white_circle_360x360/white_circle_360x360.png" height="60"></td>
-<td style="background:#222;"><img src="src/public/bolt-badge/white_circle_360x360/white_circle_360x360.svg" height="60"></td>
-<td style="background:#222;"><img src="src/public/bolt-badge/white_circle_360x360/white_circle_360x360.webp" height="60"></td>
+<td style="background:#222; text-align:center;"><div>PNG</div><img src="src/public/bolt-badge/white_circle_360x360/white_circle_360x360.png" height="60"></td>
+<td style="background:#222; text-align:center;"><div>SVG</div><img src="src/public/bolt-badge/white_circle_360x360/white_circle_360x360.svg" height="60"></td>
+<td style="background:#222; text-align:center;"><div>WEBP</div><img src="src/public/bolt-badge/white_circle_360x360/white_circle_360x360.webp" height="60"></td>
 </tr></table>
 
 ### Black Circle Badge
 <table><tr>
-<td style="background:#f3f3f3;"><img src="src/public/bolt-badge/black_circle_360x360/black_circle_360x360.png" height="60"></td>
-<td style="background:#f3f3f3;"><img src="src/public/bolt-badge/black_circle_360x360/black_circle_360x360.svg" height="60"></td>
-<td style="background:#f3f3f3;"><img src="src/public/bolt-badge/black_circle_360x360/black_circle_360x360.webp" height="60"></td>
+<td style="background:#f3f3f3; text-align:center;"><div>PNG</div><img src="src/public/bolt-badge/black_circle_360x360/black_circle_360x360.png" height="60"></td>
+<td style="background:#f3f3f3; text-align:center;"><div>SVG</div><img src="src/public/bolt-badge/black_circle_360x360/black_circle_360x360.svg" height="60"></td>
+<td style="background:#f3f3f3; text-align:center;"><div>WEBP</div><img src="src/public/bolt-badge/black_circle_360x360/black_circle_360x360.webp" height="60"></td>
 </tr></table>
 
 ### Logotext "Powered by Bolt.new"
 <table><tr>
-<td style="background:#222;"><img src="src/public/bolt-badge/logotext_poweredby_360w/logotext_poweredby_360w.png" height="60"></td>
-<td style="background:#222;"><img src="src/public/bolt-badge/logotext_poweredby_360w/logotext_poweredby_360w.svg" height="60"></td>
-<td style="background:#222;"><img src="src/public/bolt-badge/logotext_poweredby_360w/logotext_poweredby_360w.webp" height="60"></td>
+<td style="background:#222; text-align:center;"><div>PNG</div><img src="src/public/bolt-badge/logotext_poweredby_360w/logotext_poweredby_360w.png" height="60"></td>
+<td style="background:#222; text-align:center;"><div>SVG</div><img src="src/public/bolt-badge/logotext_poweredby_360w/logotext_poweredby_360w.svg" height="60"></td>
+<td style="background:#222; text-align:center;"><div>WEBP</div><img src="src/public/bolt-badge/logotext_poweredby_360w/logotext_poweredby_360w.webp" height="60"></td>
 </tr></table>
 
 ## Sponsor Logos
