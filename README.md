@@ -147,6 +147,23 @@ Below are previews of the available SVG logo and wordmark assets for each sponso
 
 ---
 
+### Anthropic
+**Logos:**
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/logo-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/logo-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/logo-white.svg" height="40"></td>
+</tr></table>
+
+**Wordmarks:**
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/wordmark-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/wordmark-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/wordmark-white.svg" height="40"></td>
+</tr></table>
+
+---
+
 ### ElevenLabs
 **Logos:**
 <table><tr>
@@ -262,23 +279,6 @@ Below are previews of the available SVG logo and wordmark assets for each sponso
 <td style="background:#f3f3f3;"><img src="src/public/tavus/wordmark-color.svg" height="40"></td>
 <td style="background:#f3f3f3;"><img src="src/public/tavus/wordmark-black.svg" height="40"></td>
 <td style="background:#f3f3f3;"><img src="src/public/tavus/wordmark-white.svg" height="40"></td>
-</tr></table>
-
----
-
-### Anthropic
-**Logos:**
-<table><tr>
-<td style="background:#f3f3f3;"><img src="src/public/anthropic/logo-color.svg" height="40"></td>
-<td style="background:#f3f3f3;"><img src="src/public/anthropic/logo-black.svg" height="40"></td>
-<td style="background:#f3f3f3;"><img src="src/public/anthropic/logo-white.svg" height="40"></td>
-</tr></table>
-
-**Wordmarks:**
-<table><tr>
-<td style="background:#f3f3f3;"><img src="src/public/anthropic/wordmark-color.svg" height="40"></td>
-<td style="background:#f3f3f3;"><img src="src/public/anthropic/wordmark-black.svg" height="40"></td>
-<td style="background:#f3f3f3;"><img src="src/public/anthropic/wordmark-white.svg" height="40"></td>
 </tr></table>
 
 ---
