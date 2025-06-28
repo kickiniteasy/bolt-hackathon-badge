@@ -84,6 +84,7 @@ Logos for the sponsors listed below are included in this repository for convenie
 Logos were sourced from official brand resources or public brand guides, and are intended for use in accordance with each sponsor's branding guidelines. If a sponsor did not provide a brand guide, only the name is listed.
 
 - [Algorand](https://algorandtechnologies.com/about/media-kit/)
+- Anthropic
 - [ElevenLabs](https://elevenlabs.io/brand)
 - Entri
 - Netlify
@@ -100,6 +101,7 @@ Below are two tables showing which logo and wordmark files exist for each sponso
 | Sponsor     | logo-color.svg | logo-black.svg | logo-white.svg |
 |-------------|:--------------:|:--------------:|:--------------:|
 | Algorand    | ✅             | ✅             | ✅             |
+| Anthropic   | ✅             | ✅             | ✅             |
 | ElevenLabs  | ✅             | ✅             | ✅             |
 | Entri       | ✅             | ✅             | ✅             |
 | Netlify     | ✅             | ✅             | ✅             |
@@ -112,6 +114,7 @@ Below are two tables showing which logo and wordmark files exist for each sponso
 | Sponsor     | wordmark-color.svg | wordmark-black.svg | wordmark-white.svg |
 |-------------|:------------------:|:------------------:|:------------------:|
 | Algorand    | ✅                 | ✅                 | ✅                 |
+| Anthropic   | ✅                 | ✅                 | ✅                 |
 | ElevenLabs  | ✅                 | ✅                 | ✅                 |
 | Entri       | ✅                 | ✅                 | ✅                 |
 | Netlify     | ✅                 | ✅                 | ✅                 |
@@ -140,6 +143,23 @@ Below are previews of the available SVG logo and wordmark assets for each sponso
 <td style="background:#f3f3f3;"><img src="src/public/algorand/wordmark-color.svg" height="40"></td>
 <td style="background:#f3f3f3;"><img src="src/public/algorand/wordmark-black.svg" height="40"></td>
 <td style="background:#f3f3f3;"><img src="src/public/algorand/wordmark-white.svg" height="40"></td>
+</tr></table>
+
+---
+
+### Anthropic
+**Logos:**
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/logo-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/logo-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/logo-white.svg" height="40"></td>
+</tr></table>
+
+**Wordmarks:**
+<table><tr>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/wordmark-color.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/wordmark-black.svg" height="40"></td>
+<td style="background:#f3f3f3;"><img src="src/public/anthropic/wordmark-white.svg" height="40"></td>
 </tr></table>
 
 ---
